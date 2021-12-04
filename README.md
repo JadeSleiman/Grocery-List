@@ -1,2 +1,4 @@
 # Grocery-List
-A working grocery list where you can add items, delete items, and check items off your list,. 
+A working grocery list where you can add items, delete items, and check items off your list.
+
+Languages used : HTML, Javascript, CSS
